@@ -40,10 +40,10 @@ export default function Solution() {
           <h2 className="text-base/7 font-semibold text-purpleSoft">
             Seguridad & Confianza
           </h2>
-          <p className="mt-2 text-pretty text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl lg:text-balance">
+          <p className="mt-2 text-pretty text-4xl font-semibold tracking-tight text-purpleDark sm:text-5xl lg:text-balance">
             Todo lo que necesitas para convertir visitas en clientes
           </p>
-          <p className="mt-6 text-lg/8 text-gray-600">
+          <p className="mt-6 text-lg/8 text-purpleDark">
             Quis tellus eget adipiscing convallis sit sit eget aliquet quis.
             Suspendisse eget egestas a elementum pulvinar et feugiat blandit at.
             In mi viverra elit nunc.
