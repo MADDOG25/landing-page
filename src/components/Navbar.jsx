@@ -1,14 +1,8 @@
-"use client";
-
 export default function Navbar() {
   return (
     <div className="bg-white">
-
       <header>
-
-        <nav
-          className="flex items-center justify-between py-4 px-8"
-        >
+        <nav className="flex items-center justify-between py-4 px-8">
           {/* Logo */}
           <div className="flex lg:flex-1">
             <a href="#">
@@ -23,7 +17,10 @@ export default function Navbar() {
 
           {/* Button Booking */}
           <div className="lg:flex lg:flex-1 lg:justify-end">
-            <a href="#" className="text-sm md:text-xl bg-purpleDark p-4 font-semibold text-white">
+            <a
+              href="#"
+              className="text-sm md:text-xl bg-purpleDark p-4 font-semibold text-white"
+            >
               Contáctanos
             </a>
           </div>
