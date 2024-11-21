@@ -1,5 +1,3 @@
-"use client";
-
 export default function Navbar() {
   return (
     <div className="bg-white">

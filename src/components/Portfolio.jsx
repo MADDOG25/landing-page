@@ -5,7 +5,7 @@ export default function Portfolio() {
         <h2 className="text-center text-base/7 font-semibold text-purpleSoft">
           Trabajos
         </h2>
-        <p className="mx-auto mt-2 max-w-lg text-balance text-center text-4xl font-semibold tracking-tight text-gray-950 sm:text-5xl">
+        <p className="mx-auto mt-2 max-w-lg text-balance text-center text-4xl font-semibold tracking-tight tetext-purpleSoft sm:text-5xl">
           Soluciones aplicadas
         </p>
 
